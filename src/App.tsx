@@ -1,4 +1,3 @@
-import React from 'react'
 import {Intro} from './Components/intro'
 import {Hiw} from './Components/HIW.tsx'
 import {Mmodel} from './Components/mmodel.tsx'
