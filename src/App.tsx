@@ -7,8 +7,8 @@ import './App.css'
 
 function App() {
   return (
-      <div className="conteiner">
-        <Intro/>
+      <div className="conteiner mx-auto flex-col bg-gray-700 justify-center">
+          <Intro/>
           <Hiw/>
           <Mmodel/>
           <RoadMap/>

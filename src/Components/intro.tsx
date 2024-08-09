@@ -2,7 +2,7 @@ import IMAGES from "../assets/images"
 
 export function Intro(){
     return (
-        <div className="container bg-black">
+        <div className="container mx-auto flex-col  bg-blue-950">
             <div className="flex justify-center">
                 <img
                     className="object-contain size-1/3 pt-3 pb-0"
