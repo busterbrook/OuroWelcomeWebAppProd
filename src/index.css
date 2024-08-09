@@ -17,6 +17,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+p{
+  font-family: Inter;
+}
 /*
 a {
   font-weight: 500;

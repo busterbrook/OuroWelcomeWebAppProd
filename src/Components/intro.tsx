@@ -10,7 +10,7 @@ export function Intro(){
                     alt="logoOuro"
                 />
             </div>
-            <p className="font-mono text-white text-6xl/[70px] font-extrabold">
+            <p className="text-white font-roboto text-6xl/[70px] font-extrabold">
                 The first Jetton marketplace on TON
             </p>
             <div className="flex justify-center">
