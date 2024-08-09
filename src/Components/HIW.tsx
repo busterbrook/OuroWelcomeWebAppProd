@@ -2,14 +2,14 @@ import IMAGES from "../assets/images.tsx";
 
 export function Hiw(){
     return(
-        <div className="container mx-auto flex-col bg-black py-4">
-            <p className="font-mono text-xl font-bold text-white">How it works?</p>
-            <p className="font-mono py-2 text-white">
-                We are using OTC exchange flow to<br/>make order book between all Jetton<br/>without TON as a bridge
+        <div className="container mx-auto flex-col bg-black pt-10">
+            <p className="font-mono text-6xl font-bold text-white pt-14">How it works?</p>
+            <p className="font-mono text-5xl/[60px] py-7 text-white">
+                We are using OTC exchange flow to make order book between all Jetton without TON as a bridge
             </p>
             <div className="flex justify-center">
                 <img
-                    className="object-contain size-2/3 pt-2"
+                    className="object-contain w-full"
                     src={IMAGES.hiwSchema}
                 />
             </div>
